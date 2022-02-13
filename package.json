@@ -1,0 +1,6 @@
+{
+    "name": "com.isuckatgamedev.events",
+    "version": "0.1.0",
+    "displayName": "I Suck at Game Dev Events",
+    "description": "This package contains scripts for easy event systems using Unity Events as well as scriptable objects."
+}
